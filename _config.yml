@@ -1,11 +1,15 @@
 title: Laura Gabrysiak # your name (or website title) here
-logo: "/images/ppic.png?raw=true" # your photo (or logo) here
+logo: "/images/ppic.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist with strong expertise in NLP, machine learning algorithms, statistical modeling, business analytics, human-computer interaction, data visualization, user experience, and consumer insights.
+  Laura Gabrysiak is a Data Scientist at Visa Consulting & Analytics, where she develops statistical models and decision analytics tools, enabling Visa clients to leverage massive amounts of data into actionable Machine Learning (ML) models and implement Artificial Intelligence (AI). Last year, she developed a dashboard creation framework cutting the development process by 60% and significantly increasing client engagement. Laura is also an active member of the Visa Women’s Network.
+  Outside of work, Laura is building the local data science community in Miami. She is a Founder of R-Ladies Miami, to promote diversity in the R community with currently ~ 1300 members, and she collaborates with CodeArt as a panel judge and a mentor. She is also a member of the Industry Advisory Board of the Miami Institute for Data Science and Computing (IDSC) of the University of Miami.
+  Laura has strong expertise in Statistical Modeling, Data Visualization, and User Research in both academia and industry. She worked several years at the German Institute for Artificial Intelligence in Berlin (DFKI) and company’s e.g., SAP creating innovative, impactful data products.
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/lauragabrysiak/">View My LinkedIn Profile</a> 
+  <a href="https://twitter.com/lauragabrysiak/">View My Twitter Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
